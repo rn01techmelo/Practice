@@ -1,0 +1,8 @@
+Steps to install Chololatey
+
+1 - open windows power shell and enter following command
+    command =Set-ExecutionPolicy Unrestricted -Force -Scope Process
+
+2-  Now enter following command 
+    command =iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex
+ 
